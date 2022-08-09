@@ -55,7 +55,7 @@ A linguagem de programação Javascript permite ao desenvolvedor implementar div
 7️⃣.	Node.js 
 O Node.js é um ambiente de execução Javascript, linguagem padrão de manipulação de páginas HTML
 é uma plataforma em que é possível criar aplicações Javascript sem depender de um browser para a execução.
-A característica que diferencia o Node.js de outras plataformas é exatamente essa execução single-thread, em que uma única thread executa o código Javascript. Em outras linguagens, ela é multi-thread, ou seja, a cada solicitação (input) são requisitados recursos computacionais até a obtenção de uma resposta (output).
+ o Node.js faz sua execução single-thread, em que uma única thread executa o código Javascript. Em outras linguagens, ela é multi-thread, ou seja, a cada solicitação (input) são requisitados recursos computacionais até a obtenção de uma resposta (output).
 
 
 ![image](https://user-images.githubusercontent.com/12821257/183530392-31b26937-9d39-44c4-ae84-4dda7c41b69b.png)
