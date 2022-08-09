@@ -33,8 +33,9 @@ funcionando de modo semelhante à uma rede social, o GitHub é hoje um dos maior
 
 
 4️⃣.	 Estrutura e Operadores 
-As estruturas condicionais estão ligadas à tomada de decisão de um algoritmo. Ao utilizar expressões que retornam verdadeiro ou falso, o algoritmo executa o bloco de comandos relativos a este resultado.
+São  condicionais  que estão ligadas à tomada de decisão de um algoritmo o verdadeiro ou falso, o algoritmo executa o bloco de comandos relativos a este resultado.
 Já no caso das estruturas de repetição, elas são úteis quando precisamos repetir N vezes a execução de um bloco de comandos até que uma condição seja atendida.
+
 
 
 5️⃣.	Variáveis
